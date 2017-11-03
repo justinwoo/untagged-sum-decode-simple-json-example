@@ -1,0 +1,13 @@
+{
+    "name": "untagged-sum-decode-simple-json-example",
+    "set": "aff-4.0-27-Oct-2017",
+    "source": "https://github.com/justinwoo/package-sets.git",
+    "depends": [
+        "simple-json",
+        "foreign-generic",
+        "psci-support",
+        "console",
+        "eff",
+        "prelude"
+    ]
+}
